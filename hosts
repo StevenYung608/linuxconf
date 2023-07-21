@@ -1,4 +1,7 @@
+##########    HOSTS    ###########
 192.168.35.166 linuxsrv.brian.com
 192.168.35.167 linuxsrv2.brian.com
 192.168.35.168 linuxsrv3.brian.com
 192.168.35.169 linuxsrv4.brian.com
+192.168.35.170 linuxsrv5.brian.com
+###################################
