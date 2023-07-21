@@ -4,3 +4,4 @@ linux configuration
 linuxconf 
 Github from Linux and Windows
 Have a good day!
+add word1
